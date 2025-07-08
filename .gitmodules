@@ -1,0 +1,3 @@
+[submodule "src/main/nations-app"]
+  path = src/main/nations-app
+  url  = https://github.com/jkarkavelou/nations.git
